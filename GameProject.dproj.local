@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.543,=C:\Users\artur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/26 14:38:40.000.153,=C:\Users\artur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/29 14:52:04.000.251,=C:\Users\artur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/17 15:34:38.000.684,=C:\Users\artur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/24 21:10:18.000.559,=C:\Users\artur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/24 21:10:38.000.829,C:\Users\artur\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\MenuUnit.pas</Transaction>
+    <Transaction>2024/04/24 21:10:38.000.829,C:\Users\artur\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\MenuUnit.dfm</Transaction>
+    <Transaction>2024/04/24 21:16:01.000.852,C:\Users\artur\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\GameProject.dproj</Transaction>
+    <Transaction>2024/04/24 21:17:07.000.321,=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas</Transaction>
+    <Transaction>2024/04/24 21:17:41.000.868,C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.dfm=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\SettingsUnit.dfm</Transaction>
+    <Transaction>2024/04/24 21:17:41.000.868,C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\SettingsUnit.pas</Transaction>
+    <Transaction>2024/04/24 22:17:13.000.466,=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas</Transaction>
+    <Transaction>2024/04/25 20:19:42.000.767,=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas</Transaction>
+    <Transaction>2024/04/25 20:26:39.000.340,C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\StopUnit.dfm=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.dfm</Transaction>
+    <Transaction>2024/04/25 20:26:39.000.340,C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\StopUnit.pas=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas</Transaction>
+    <Transaction>2024/05/11 14:13:07.000.624,=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas</Transaction>
+    <Transaction>2024/05/11 14:13:57.000.259,C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\ParamsUnit.pas</Transaction>
+    <Transaction>2024/05/11 15:33:21.000.176,=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas</Transaction>
+    <Transaction>2024/05/11 15:34:11.000.816,C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.pas=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\ExitWSaveUnit.pas</Transaction>
+    <Transaction>2024/05/11 15:34:11.000.816,C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\Unit1.dfm=C:\Users\artur\Documents\Artur\My_Programming\unik\kursac\code_w_3\ExitWSaveUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
